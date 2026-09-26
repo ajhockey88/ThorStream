@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.ajhockey88.twa",
-        "sha256_cert_fingerprints": ["DB:8E:1A:FD:86:F1:65:03:8B:DD:69:13:F4:5C:05:7F:0E:1F:20:5F:AE:F6:C3:32:01:EE:01:91:F6:F9:79:D5"]
-      }
-    }]
